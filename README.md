@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+![darksoul bonfire](https://user-images.githubusercontent.com/24411989/184440612-a603794e-3b5b-448b-aff5-9841b4d67be7.gif)
 
-https://user-images.githubusercontent.com/24411989/184436599-3586e548-ed2f-47ab-9aa6-ebddc169503b.mp4
 
 <!--
 **arrofirezasatria/arrofirezasatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
