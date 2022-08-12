@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+
+https://user-images.githubusercontent.com/24411989/184436599-3586e548-ed2f-47ab-9aa6-ebddc169503b.mp4
+
 <!--
 **arrofirezasatria/arrofirezasatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
