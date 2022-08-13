@@ -1,12 +1,24 @@
 ### Hi there 👋
 
-![darksoul bonfire](https://user-images.githubusercontent.com/24411989/184440612-a603794e-3b5b-448b-aff5-9841b4d67be7.gif)
+```html
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="right" width="100%">
+<img width="33%" src="https://user-images.githubusercontent.com/24411989/184463329-502db212-281a-4554-b208-a63b0b62151f.gif"> 
+<img width="33%" src='https://user-images.githubusercontent.com/24411989/184463329-502db212-281a-4554-b208-a63b0b62151f.gif'/>
+![warrior rest wide](https://user-images.githubusercontent.com/24411989/184463329-502db212-281a-4554-b208-a63b0b62151f.gif)
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+</p>
+
+```
 
 <!--
 **arrofirezasatria/arrofirezasatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 Here are some ideas to get you started:
 
