@@ -2,7 +2,7 @@
   Rest Weary Traveller
 </h3>
 <h4 align="center">
-Feel free to rest here before continuing to find the answer
+Feel free to rest here before continuing to slay the dragon's code
 </h4>
 
 <p align="center">
