@@ -1,14 +1,12 @@
-### Hi there 👋
-
 <p align="center">
-Rest Weary Traveller
+  Rest Weary Traveller
 </p>
-<p align="center">
+  <p align="center">
 Feel free to rest here before continuing to find the answer
 </p>
 
 <p align="center">
-  <img width="60%" src='/images/warrior rest wide.gif'/>
+  <img width="60%" src="/images/warrior rest wide.gif"/>
 </p>
 
 
