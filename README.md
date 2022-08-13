@@ -1,9 +1,9 @@
-<p align="center">
+<h3 align="center">
   Rest Weary Traveller
-</p>
-  <p align="center">
+</h3>
+<h4 align="center">
 Feel free to rest here before continuing to find the answer
-</p>
+</h4>
 
 <p align="center">
   <img width="60%" src="/images/warrior rest wide.gif"/>
