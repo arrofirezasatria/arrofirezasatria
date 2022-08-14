@@ -10,8 +10,6 @@ Feel free to rest here before continuing to slay the Dragon's Code :dragon_face:
   <img width="60%" src="/images/warrior rest wide.gif"/>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=24411989)
-
 <!--
 **arrofirezasatria/arrofirezasatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
