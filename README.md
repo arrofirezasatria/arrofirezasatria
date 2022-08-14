@@ -2,8 +2,6 @@
   Rest Weary Traveller
 </h3>
 
-![](https://hit.yhype.me/github/profile?user_id=24411989)
-
 <h4 align="center">
 Feel free to rest here before continuing to slay the Dragon's Code :dragon_face:
 </h4>
@@ -11,8 +9,6 @@ Feel free to rest here before continuing to slay the Dragon's Code :dragon_face:
 <p align="center">
   <img width="60%" src="/images/warrior rest wide.gif"/>
 </p>
-
-![](https://hit.yhype.me/github/profile?user_id=24411989)
 
 ![](https://hit.yhype.me/github/profile?user_id=24411989)
 
