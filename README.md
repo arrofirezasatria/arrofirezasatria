@@ -10,10 +10,6 @@ Feel free to rest here before continuing to slay the dragon's code
   <img width="60%" src="/images/warrior rest wide.gif"/>
 </p>
 
-
-https://user-images.githubusercontent.com/24411989/184500770-930b53c7-cd0a-440d-9c96-608030572f75.mov
-
- n vtg
 <!--
 **arrofirezasatria/arrofirezasatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
